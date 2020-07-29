@@ -1,0 +1,42 @@
+.add-todo {
+  position: relative;
+  width: 100%;
+  height: 50px;
+  margin-bottom: 40px;
+
+  &__input {
+    width: 100%;
+    height: 100%;
+    border: none;
+    border-radius: 10px 0 10px 10px;
+    outline: none;
+    padding: 10px 55px 10px 50px;
+    box-sizing: border-box;
+  }
+
+  &__input::placeholder {
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: 0 0 2px rgba(0,0,0,0.6);
+  }
+
+  &__button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: block;
+    width: 50px;
+    height: 100%;
+    border: none;
+    border-radius: 10px 0 10px 10px;
+    outline: none;
+    background-color: rgba(255, 0, 0, 0.6);
+    transition: background-color 0.3s;
+    cursor: pointer;
+    font-weight: 700;
+  }
+
+  &__button:hover {
+    background-color: rgba(255, 0, 0, 0.7);
+  }
+}
