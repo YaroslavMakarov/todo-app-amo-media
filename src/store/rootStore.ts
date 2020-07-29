@@ -28,7 +28,7 @@ export const todoTitleSelector = (state: State) => (state.openModal.title);
 //preparedTodosSelector selector
 export const prepareTodosSelector = (state: State) => (
     state.todos.todos.filter(todo => (
-        todo.title.includes(state.searchField.value)
+        todo.title.toLowerCase().includes(state.searchField.value.toLowerCase())
     ))
 );
 

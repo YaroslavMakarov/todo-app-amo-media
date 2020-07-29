@@ -19,7 +19,7 @@ const ModalWindow = () => {
                 <div className="modal__overlay">
                     <div className="modal__body">
                         <div className="modal__text">
-                            {`do you really want to delete «${todoTitle}» ?`}
+                            {`Do you really want to delete «${todoTitle}» ?`}
                         </div>
                         <div className="modal__buttons-wrapper">
                             <button
