@@ -1,2 +1,0 @@
-(this["webpackJsonptodo-app-amo-media"]=this["webpackJsonptodo-app-amo-media"]||[]).push([[0],{3:function(e,t,n){e.exports=n(9)},8:function(e,t,n){},9:function(e,t,n){"use strict";n.r(t);var a=n(0),o=n.n(a),p=n(2),r=n.n(p);n(8);var c=function(){return o.a.createElement("h1",{className:"App"},"Hello!")};r.a.render(o.a.createElement(c,null),document.getElementById("root"))}},[[3,1,2]]]);
-//# sourceMappingURL=main.9acadf1a.chunk.js.map
