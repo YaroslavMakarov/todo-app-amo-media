@@ -15,8 +15,8 @@ const App = () => {
         <div className="app__content">
             {todos.length > 2
             && <SearchField />}
-            <AddTodo />
             <TodosList />
+            <AddTodo />
         </div>
         <ModalWindow />
     </div>
