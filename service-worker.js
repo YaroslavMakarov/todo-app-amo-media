@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/todo-app-amo-media/precache-manifest.45f40a3adbdc8c8fdc1da486d3b1190c.js"
+  "/todo-app-amo-media/precache-manifest.999229c491d814ef78c3a9e43cfc210a.js"
 );
 
 self.addEventListener('message', (event) => {

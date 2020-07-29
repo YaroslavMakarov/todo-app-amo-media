@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "890587850e21d1944a517430bbccfca9",
+    "revision": "0651a16344ef834b3b8014ebdc27ffb4",
     "url": "/todo-app-amo-media/index.html"
   },
   {
-    "revision": "14d3e1161acda7fe8e0a",
-    "url": "/todo-app-amo-media/static/css/main.1ecfc093.chunk.css"
+    "revision": "06acee1fb9fab3db5977",
+    "url": "/todo-app-amo-media/static/css/main.8b6a54be.chunk.css"
   },
   {
     "revision": "fd39483712b0cc546984",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/todo-app-amo-media/static/js/2.3cbb3fd7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "14d3e1161acda7fe8e0a",
-    "url": "/todo-app-amo-media/static/js/main.61dfbbf1.chunk.js"
+    "revision": "06acee1fb9fab3db5977",
+    "url": "/todo-app-amo-media/static/js/main.ed5d2f34.chunk.js"
   },
   {
     "revision": "07ea0d1b7ce71b65d888",
