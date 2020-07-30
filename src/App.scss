@@ -1,0 +1,21 @@
+@import "commonStyles/reset";
+
+.app {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: rgba(204,204,204,0.6);
+  padding: 70px 15px 0;
+  min-height: 100vh;
+  box-sizing: border-box;
+
+  &__content {
+    width: 750px;
+    height: auto;
+    box-sizing: border-box;
+    padding: 15px;
+    background-color: rgba(204,204,204,0.4);
+    box-shadow: 0 0 10px 0 rgba(66,1,66,1);
+  }
+}
